@@ -6,7 +6,6 @@ const student = {
 };
 console.log(student);
 
-
 // 2. Add a new property country to an existing object person
 let person = {
   name: "Amit",
