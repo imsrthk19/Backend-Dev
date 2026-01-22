@@ -1,0 +1,25 @@
+Microsoft Windows [Version 10.0.26100.4946]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Sarthak\OneDrive\Desktop\bridgelabtraining-3S>git branch
+* Strings
+  dev
+  main
+
+C:\Users\Sarthak\OneDrive\Desktop\bridgelabtraining-3S>git checkout -b dev
+fatal: a branch named 'dev' already exists
+
+C:\Users\Sarthak\OneDrive\Desktop\bridgelabtraining-3S>git switch dev
+M       Introduction.txt
+Switched to branch 'dev'
+
+C:\Users\Sarthak\OneDrive\Desktop\bridgelabtraining-3S>git branch
+  Strings
+* dev
+  main
+
+C:\Users\Sarthak\OneDrive\Desktop\bridgelabtraining-3S>git add Introduction.txt
+
+C:\Users\Sarthak\OneDrive\Desktop\bridgelabtraining-3S>git commit -m "Introduction file added"
+[dev 254ab1e] Introduction file added
+ 1 file changed, 1 insertion(+), 1 deletion(-)
