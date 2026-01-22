@@ -1,3 +1,6 @@
+//Q-2: Build a module called stringUtils.js that exports functions for capitalizing strings, reversing
+// strings, and counting vowels.
+
 function capitalize(str) {
     if (!str) return "";
     return str.charAt(0).toUpperCase() + str.slice(1);
