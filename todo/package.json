@@ -1,0 +1,16 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Todo App",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sarthak Srivastava",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
