@@ -1,7 +1,6 @@
 /**
   js test file for demonstration purposes.
  */
-
 console.log('This is a test file.'); //display a message
 
 console.error('This is an error message.'); //display an error messageTest file for demonstration purposes.

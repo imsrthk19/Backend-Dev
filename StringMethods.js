@@ -1,5 +1,4 @@
 /**String Methods
-
 Method
 Example
 
