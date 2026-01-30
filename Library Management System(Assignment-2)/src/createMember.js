@@ -1,5 +1,3 @@
-// src/createMember.js
-// This file is used to add members into library.json
 import fs from "fs";
 function createMember(memberId, name, membershipType) {
   try {
@@ -11,7 +9,7 @@ function createMember(memberId, name, membershipType) {
     if (alreadyExists) {
       return "Member already exists!";
     }
-    // Create new member object
+    
     let newMember = {
       memberId,
       name,

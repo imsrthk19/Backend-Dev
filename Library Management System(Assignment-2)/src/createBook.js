@@ -1,4 +1,3 @@
-// src/createBook.js
 import fs from "fs";
 function createBook(bookId, title, author, price) {
   try {
