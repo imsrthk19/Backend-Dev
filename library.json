@@ -1,0 +1,123 @@
+[
+  {
+    "memberId": 1,
+    "name": "Sarthak",
+    "membershipType": "Gold",
+    "borrowedBooks": [
+      {
+        "bookId": 101,
+        "title": "JavaScript Basics",
+        "author": "John Doe",
+        "price": 500
+      },
+      {
+        "bookId": 102,
+        "title": "Node.js Guide",
+        "author": "Ryan Dahl",
+        "price": 700
+      },
+      {
+        "bookId": 103,
+        "title": "Mathematics Formulas",
+        "author": "Richard Dennis",
+        "price": 600
+      },
+      {
+        "bookId": 104,
+        "title": "Computer Science Fundamentals",
+        "author": "Computer Science Fundamentals",
+        "price": 800
+      },
+      {
+        "bookId": 101,
+        "title": "JavaScript Basics",
+        "author": "John Doe",
+        "price": 500
+      },
+      {
+        "bookId": 102,
+        "title": "Node.js Guide",
+        "author": "Ryan Dahl",
+        "price": 700
+      },
+      {
+        "bookId": 103,
+        "title": "Mathematics Formulas",
+        "author": "Richard Dennis",
+        "price": 600
+      },
+      {
+        "bookId": 104,
+        "title": "Computer Science Fundamentals",
+        "author": "Computer Science Fundamentals",
+        "price": 800
+      },
+      {
+        "bookId": 101,
+        "title": "JavaScript Basics",
+        "author": "John Doe",
+        "price": 500
+      },
+      {
+        "bookId": 102,
+        "title": "Node.js Guide",
+        "author": "Ryan Dahl",
+        "price": 700
+      },
+      {
+        "bookId": 103,
+        "title": "Mathematics Formulas",
+        "author": "Richard Dennis",
+        "price": 600
+      },
+      {
+        "bookId": 104,
+        "title": "Computer Science Fundamentals",
+        "author": "Computer Science Fundamentals",
+        "price": 800
+      },
+      {
+        "bookId": 101,
+        "title": "JavaScript Basics",
+        "author": "John Doe",
+        "price": 500
+      },
+      {
+        "bookId": 102,
+        "title": "Node.js Guide",
+        "author": "Ryan Dahl",
+        "price": 700
+      },
+      {
+        "bookId": 103,
+        "title": "Mathematics Formulas",
+        "author": "Richard Dennis",
+        "price": 600
+      },
+      {
+        "bookId": 104,
+        "title": "Computer Science Fundamentals",
+        "author": "Computer Science Fundamentals",
+        "price": 800
+      }
+    ]
+  },
+  {
+    "memberId": 2,
+    "name": "Aman",
+    "membershipType": "Normal",
+    "borrowedBooks": []
+  },
+  {
+    "memberId": 3,
+    "name": "Samarth",
+    "membershipType": "Gold",
+    "borrowedBooks": []
+  },
+  {
+    "memberId": 4,
+    "name": "Akshath",
+    "membershipType": "Normal",
+    "borrowedBooks": []
+  }
+]
