@@ -1,5 +1,4 @@
 import fs from "fs";
-
 function registerUser(name, email, password){
     try{
         let user = [];
