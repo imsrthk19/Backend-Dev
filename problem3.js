@@ -47,7 +47,6 @@ const requireRole = (role) => {
     };
 };
 
-
 const isOwnerOrModerator = (req, res, next) => {
     const postId = parseInt(req.params.id);
     const post = posts.find(p => p.id === postId);
@@ -99,7 +98,6 @@ app.post('/posts', isAuthenticated, (req, res) => {
         post: newPost
     });
 });
-
 
 
 app.put(
