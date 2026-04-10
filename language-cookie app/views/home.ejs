@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Language Preference</title>
+</head>
+<body>
+<h2>Language Preference System 🌐</h2>
+<h3><%= message %></h3>
+<form action="/set-language" method="POST">
+<select name="language">
+  <option value="en">English</option>
+  <option value="hi">Hindi</option>
+  <option value="fr">French</option>
+</select>
+<br><br>
+<button type="submit">
+  Change Language
+</button>
+</form>
+</body>
+</html>
