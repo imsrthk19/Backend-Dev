@@ -1,4 +1,4 @@
 # Backend-Dev
-All the information about this repository is
-divided into different branches.
-For more information, check each branch.
+All the work has been done in the respective branches.
+For more information, explore the branches of
+the repository.
